@@ -10,3 +10,16 @@ C:\Users\ADMIN\source\repos\Solution1\freetut_c_shrap\obj\Debug\freetut_c_shrap.
 C:\Users\ADMIN\source\repos\Solution1\freetut_c_shrap\obj\Debug\freetut_c_shrap.exe
 C:\Users\ADMIN\source\repos\Solution1\freetut_c_shrap\obj\Debug\freetut_c_shrap.pdb
 C:\Users\ADMIN\source\repos\Solution1\freetut_c_shrap\obj\Debug\freetut_c_shrap.CalculateForm.resources
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\bin\Debug\freetut_c_shrap.exe.config
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\bin\Debug\freetut_c_shrap.exe
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\bin\Debug\freetut_c_shrap.pdb
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.csproj.SuggestedBindingRedirects.cache
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.CalculateForm.resources
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.FormIndex.resources
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.exe
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.pdb
+C:\Users\ADMIN\source\repos\Learn-C-Sharp\freetut_c_shrap\obj\Debug\freetut_c_shrap.Crud_Students.resources

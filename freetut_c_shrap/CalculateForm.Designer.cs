@@ -181,7 +181,7 @@
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "CalculateForm";
-            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "calculateForm";
             this.Load += new System.EventHandler(this.CalculateForm_Load);
             this.ResumeLayout(false);

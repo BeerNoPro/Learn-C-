@@ -23,5 +23,11 @@ namespace freetut_c_shrap
             var calculateForm = new CalculateForm();
             calculateForm.Show();
         }
+
+        private void Btn_Crud_Students_Click(object sender, EventArgs e)
+        {
+            Crud_Students curdStudents = new Crud_Students();
+            curdStudents.Show();
+        }
     }
 }

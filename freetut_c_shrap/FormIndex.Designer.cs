@@ -30,6 +30,7 @@
         {
             this.btn_show_calculate_form = new System.Windows.Forms.Button();
             this.lbl_first_number = new System.Windows.Forms.Label();
+            this.Btn_Crud_Students = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // btn_show_calculate_form
@@ -53,12 +54,23 @@
             this.lbl_first_number.Text = "Welcome to learn C#";
             this.lbl_first_number.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
+            // Btn_Crud_Students
+            // 
+            this.Btn_Crud_Students.Location = new System.Drawing.Point(296, 134);
+            this.Btn_Crud_Students.Name = "Btn_Crud_Students";
+            this.Btn_Crud_Students.Size = new System.Drawing.Size(162, 74);
+            this.Btn_Crud_Students.TabIndex = 2;
+            this.Btn_Crud_Students.Text = "Crud-Students";
+            this.Btn_Crud_Students.UseVisualStyleBackColor = true;
+            this.Btn_Crud_Students.Click += new System.EventHandler(this.Btn_Crud_Students_Click);
+            // 
             // FormIndex
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1034, 576);
+            this.Controls.Add(this.Btn_Crud_Students);
             this.Controls.Add(this.lbl_first_number);
             this.Controls.Add(this.btn_show_calculate_form);
             this.Cursor = System.Windows.Forms.Cursors.Default;
@@ -76,6 +88,7 @@
 
         private System.Windows.Forms.Button btn_show_calculate_form;
         private System.Windows.Forms.Label lbl_first_number;
+        private System.Windows.Forms.Button Btn_Crud_Students;
     }
 }
 
